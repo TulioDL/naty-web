@@ -1,0 +1,19 @@
+.description {
+    width: auto;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.description p {
+    width: 40%;
+    margin: 1rem auto;
+}
+
+.description img {
+    margin: 1rem;
+    width: 70%;
+    height: auto;
+    align-items: center;
+}
